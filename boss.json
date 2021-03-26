@@ -1,0 +1,9 @@
+{
+	"name": "guid-generator",
+	"description": "GUID generator for Delphi",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CarlosHe/guid-generator",
+	"mainsrc": "./src/",
+	"projects": [],
+	"dependencies": {}
+}
